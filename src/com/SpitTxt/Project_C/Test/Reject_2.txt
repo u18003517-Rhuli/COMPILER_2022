@@ -1,0 +1,5 @@
+with this input file the lexer must 
+output an error message
+exactly here >    -0
+(because the digit 0 may not 
+carry any sign)

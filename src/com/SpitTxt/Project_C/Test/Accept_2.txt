@@ -1,0 +1,10 @@
+this input must be 
+accepted     without any   error message
+)))( )( )) (((( { ) }} ( ) }}}}} { } ( }
+ {    {   {  ) o my goodness, those were
+really lots of brackets , and even some 
+semicolons ; ; ;;;;; too;      
+but the semicolons are not equal to the
+   eq token and also not good for the 
+short " string " with only 8 characters
+in it

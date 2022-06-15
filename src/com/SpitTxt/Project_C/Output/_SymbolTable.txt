@@ -1,0 +1,106 @@
+proc:[
+proc - ID: 3 - Scope: (1/0/[])
+]
+
+:=:[
+:= - ID: 9 - Scope: (1/0/[])
+:= - ID: 21 - Scope: (0/-/[1])
+]
+
+Dec:[
+Dec - ID: 32 - Scope: (0/-/[1])
+]
+
+ProcDefs:[
+ProcDefs - ID: 1 - Scope: (1/0/[])
+]
+
+numberone:[
+numberone - ID: 34 - Scope: (0/-/[1])
+numberone - ID: 10 - Scope: (1/0/[])
+numberone - ID: 20 - Scope: (0/-/[1])
+]
+
+Constant:[
+1 - ID: 22 - Scope: (0/-/[1])
+]
+
+num:[
+num - ID: 33 - Scope: (0/-/[1])
+]
+
+SPLProgr:[
+SPLProgr - ID: 0 - Scope: (0/-/[1])
+]
+
+PCall:[
+PCall - ID: 25 - Scope: (0/-/[1])
+]
+
+main:[
+main - ID: 16 - Scope: (0/-/[1])
+]
+
+,:[
+, - ID: 15 - Scope: (0/-/[1])
+]
+
+Algorithm:[
+Algorithm - ID: 6 - Scope: (1/0/[])
+Algorithm - ID: 18 - Scope: (0/-/[1])
+Algorithm - ID: 24 - Scope: (0/-/[1])
+]
+
+output:[
+output - ID: 8 - Scope: (1/0/[])
+]
+
+call:[
+call - ID: 26 - Scope: (0/-/[1])
+]
+
+halt:[
+halt - ID: 29 - Scope: (0/-/[1])
+]
+
+PD:[
+PD - ID: 2 - Scope: (1/0/[])
+]
+
+VarDecl:[
+VarDecl - ID: 31 - Scope: (0/-/[1])
+]
+
+Assign:[
+Assign - ID: 7 - Scope: (1/0/[])
+Assign - ID: 19 - Scope: (0/-/[1])
+]
+
+{:[
+{ - ID: 5 - Scope: (1/0/[])
+{ - ID: 17 - Scope: (0/-/[1])
+]
+
+;:[
+; - ID: 11 - Scope: (1/0/[])
+; - ID: 13 - Scope: (0/-/[1])
+; - ID: 23 - Scope: (0/-/[1])
+; - ID: 28 - Scope: (0/-/[1])
+; - ID: 30 - Scope: (0/-/[1])
+; - ID: 35 - Scope: (0/-/[1])
+]
+
+}:[
+} - ID: 14 - Scope: (0/-/[1])
+} - ID: 36 - Scope: (0/-/[1])
+]
+
+proceduretest:[
+proceduretest - ID: 4 - Scope: (1/0/[])
+proceduretest - ID: 27 - Scope: (0/-/[1])
+]
+
+return:[
+return - ID: 12 - Scope: (0/-/[1])
+]
+

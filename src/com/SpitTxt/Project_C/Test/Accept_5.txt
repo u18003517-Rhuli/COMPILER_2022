@@ -1,0 +1,12 @@
+now we write a nice mathematical    
+ term, which must of course also
+be entirely accepted by the lexer,
+or else the student will not get
+any marks for this testcase;
+
+add(17,mult(-127,sub(13 ,  3 ) ))
+
+and here i am also adding a few
+additional silly brackets }}}} {
+just for fun ( ( }
+

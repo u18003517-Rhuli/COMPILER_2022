@@ -1,0 +1,9 @@
+for this input the lexer must output or write 
+
+ a good error message f or for or forty millimeter
+  
+at this point here and then halt > >>> > - because 
+the minus
+symbol alone without any following digit is not
+
+   allowed by the regular expression;

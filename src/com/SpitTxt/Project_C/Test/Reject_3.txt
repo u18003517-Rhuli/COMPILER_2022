@@ -1,0 +1,4 @@
+with this input file the lexer must 
+output an error message
+exactly here > "because the string is too long";
+or else the student gets 0 marks for this test case

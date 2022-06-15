@@ -1,0 +1,5 @@
+with this input file the lexer must 
+output an illegal symbol message
+exactly here > *
+(because the star is not in the
+alphabet)

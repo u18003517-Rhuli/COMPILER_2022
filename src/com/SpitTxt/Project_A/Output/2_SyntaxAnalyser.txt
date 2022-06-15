@@ -1,0 +1,44 @@
+Number of ID 
+|SPLProgr
+	|main
+	|{
+	|Algorithm
+		|Instr
+			|Assign
+				|LHS
+					|Var
+						|fullman
+				|:=
+				|Expr
+					|Const
+					|Var
+						|butty
+		|;
+		|Algorithm
+			|Instr
+				|Branch
+					|if
+					|(
+					|Expr
+						|Const
+						|Var
+							|fullman2
+					|)
+					|then
+					|{
+					|Algorithm
+						|Instr
+							|Assign
+								|LHS
+									|Var
+										|filly
+								|:=
+								|Expr
+									|Const
+										|"HAPPY "
+						|;
+					|}
+			|;
+	|halt
+	|;
+	|}

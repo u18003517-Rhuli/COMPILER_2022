@@ -1,0 +1,11 @@
+http://www.vintage-basic.net/downloads/Vintage_BASIC_Users_Guide.html
+
+________________________________________________________________________________________________________________________
+
+#isInstalled
+
+vintbas [filename].bas
+
+e.g
+cd src/com/SpitTxt/Project_C
+vintbas testBasic.bas

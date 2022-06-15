@@ -1,0 +1,13 @@
+    this
+   input     must be accepted  
+ without any errors, 
+because these are nice numbers
+0; -12; 621, while the silly
+number "0000" is actually only
+a string ,,, ; but if the lexer
+     crashes , , , ; then
+the student gets 0 marks for     
+ this test case else 1 mark;
+please proceed to the next 1
+for testing or halt
+

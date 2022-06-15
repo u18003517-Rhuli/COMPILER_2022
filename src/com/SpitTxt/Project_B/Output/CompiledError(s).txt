@@ -1,0 +1,3 @@
+Semantic error (regulator): 
+variable declarations is out of scope, (is not found inside offspring)
+'filly' @line 14

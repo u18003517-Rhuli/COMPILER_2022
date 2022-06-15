@@ -1,0 +1,38 @@
+ proc procedureTest {
+    numberOne := 1;
+    numberTwo := add(numberOne,2);
+
+
+
+    numberArray[0] := numberOne;
+    numberArray[numberOne] := numberTwo;
+
+    numberOne := input(numberTwo);
+    output := numberTwo;
+
+    return;
+    num numberOne;
+    num numberTwo;
+    arr num[2] numberArray;
+},
+
+
+ main{
+
+    fullMan := "HAPPY 1";
+
+    if(trueTest) then {
+        filly := "HAPPY 2";
+    };
+
+    do {} until(trueTest);
+
+    while (trueTest) do {};
+
+    call procedureTest;
+
+    halt;
+    string fullMan;
+    bool trueTest;
+}
+

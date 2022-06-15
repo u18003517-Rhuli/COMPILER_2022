@@ -1,0 +1,12 @@
+     
+if this nice testcase is not 
+accepted by the lexer then the
+the the n then the student will
+get 0 marks;
+eq((1<0),(296>1000023)) , because
+ 1 < 0   is false and 296>1000023  
+is also false, thus false eq false
+which is actually true, hehehehe ;)
+now i am smiling with a smiley ;)
+
+

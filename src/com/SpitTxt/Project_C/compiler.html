@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+
+<!--form action="proccess.php" method="post" enctype="multipart/form-data">
+    <input type="file" name="fileToUpload" id="fileToUpload">
+    <input type="submit" value="Upload text file" name="submit">
+</form>
+<form action="test.php" method="post">
+    <input type="submit" value="proccess" name="proccess" <?php check() ?>>
+</form-->
+
+<h2>OUTPUT:</h2>
+
+<!--p>&nbsp;</p>
+<p>README.txt</p>
+<p>&nbsp;</p-->
+<p>Lexer</p>
+<div id="list">
+    <p><iframe src="Output\1_Lexer.txt" frameborder="0" height="400"
+               width="95%" style="background-color: rgb(66, 197, 245)"></iframe></p>
+</div>
+
+<p>SyntaxTree</p>
+<div >
+    <p><iframe src="Output\2_SyntaxAnalyser.txt" frameborder="0" height="400"
+               width="95%" style="background-color: rgb(66, 197, 245)"></iframe></p>
+</div>
+
+<!--p>SyntaxTree (AST)</p>
+<div >
+    <p><iframe src="Output\2_SyntaxAnalyser_Pruned.txt" frameborder="0" height="400"
+               width="95%" style="background-color: rgb(66, 197, 245)"></iframe></p>
+</div-->
+
+<p>Scoped tree</p>
+<div >
+    <p><iframe src="Output\3_Scopes_found.txt" frameborder="0" height="400"
+               width="95%" style="background-color: rgb(66, 197, 245)"></iframe></p>
+</div>
+
+
+<!--p>SyntaxTree (AST)_name_regulated</p>
+<div >
+    <p><iframe src="Output\4_RegulatedNames_found_Pruned.txt" frameborder="0" height="400"
+               width="95%" style="background-color: rgb(66, 197, 245)"></iframe></p>
+</div-->
+
+
+<p>Checked_Regulated (AST)</p>
+<div >
+    <p><iframe src="Output\5_TypeChecked_found.txt" frameborder="0" height="400"
+               width="95%" style="background-color: rgb(66, 197, 245)"></iframe></p>
+</div>
+
+<p><b>Generated code</b></p>
+<div >
+    <p><iframe src="Output\6_Generated_Code.txt" frameborder="0" height="650"
+               width="95%" style="background-color: rgb(66, 197, 245)"></iframe></p>
+</div>
+
+
+<p>Symbol Table</p>
+<div >
+    <p><iframe src="Output\_SymbolTable.txt" frameborder="0" height="400"
+               width="95%" style="background-color: rgb(66, 197, 245)"></iframe></p>
+</div>
+
+<p>Errors</p>
+<div >
+    <p><iframe src="Output\CompiledError(s).txt" frameborder="0" height="400"
+               width="95%" style="background-color: rgb(66, 197, 245)"></iframe></p>
+</div>
+
+</body>
+</html>
